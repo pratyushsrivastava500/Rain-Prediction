@@ -478,15 +478,3 @@ For questions, suggestions, or support:
 
 ---
 
-## 📈 Project Statistics
-
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/Rain-Prediction?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/yourusername/Rain-Prediction?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/yourusername/Rain-Prediction)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/yourusername/Rain-Prediction)
-
-**Dataset**: 145,460 observations  
-**Features**: 23 input features  
-**Models**: 4 trained models available  
-**Accuracy**: 85-90% on test data  
-**Response Time**: < 100ms per prediction
