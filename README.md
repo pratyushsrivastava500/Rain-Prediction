@@ -474,7 +474,8 @@ For questions, suggestions, or support:
 
 ⚠️ **Disclaimer**: This system is designed for educational and research purposes. Weather predictions should not be solely relied upon for critical decisions. Always consult official meteorological services for accurate weather forecasts.
 
-**Made with ❤️ and Python | © 2024 Rain Prediction Team**
+<div align="center">
+  <strong>Made with ❤️ and Python | © 2024 Rain Prediction Team</strong>
+</div>
 
----
 
