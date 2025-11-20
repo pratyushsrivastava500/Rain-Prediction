@@ -468,8 +468,6 @@ For questions, suggestions, or support:
 **Email**: pratyushsrivastava500@gmail.com  
 **GitHub**: [@pratyushsrivastava500](https://github.com/pratyushsrivastava500)
 
-**Issue Tracker**: [GitHub Issues](https://github.com/yourusername/Rain-Prediction/issues)
-
 ---
 
 ⚠️ **Disclaimer**: This system is designed for educational and research purposes. Weather predictions should not be solely relied upon for critical decisions. Always consult official meteorological services for accurate weather forecasts.
